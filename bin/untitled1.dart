@@ -3,4 +3,6 @@ void main() {
     print('$i');
   }
 
+  print('3');
+
 }
